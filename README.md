@@ -35,11 +35,4 @@ int myNum;        // Attribute (int variable)
 
 string myString;  // Attribute (string variable)
 };
-Algorithm:
-
-Start =>  declare and initialize a variable => then print the same in octal, decimal, hexadecimal, and binary =>  End
-
-
-Explanation of the algorithm:
-In this code we declare and initialize a variable. Then print the same in octal, decimal, hexadecimal, and binary forms.
 
